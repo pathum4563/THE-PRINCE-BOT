@@ -12,7 +12,7 @@ import moment from "moment-timezone"
 
 
 global.owner = [
-  ["923092668108", "Prince", false],
+  ["94717381136", "🍃⇶ᴘᴀɴᴅᴀ-ʙʙʜ🐼♥", true],
   [''], 
   [''] 
 ]
@@ -20,7 +20,7 @@ global.owner = [
 
 
 //💌global.pairingNumber = "" //put your bot number here💌
-global.mods = ['923042205427'] 
+global.mods = ['94717381136'] 
 global.prems = ['']
 global.allowed = ['']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
@@ -120,10 +120,10 @@ global.developer = 'https://wa.me/message/DCAK67ON3XVOG1' //contact
 
 
 //Sticker WM
-global.botname = '𝘗𝘙𝘐𝘕𝘊𝘌-𝘉𝘖𝘛-𝘔𝘋'
-global.princebot = '🛡️𝘗𝘙𝘐𝘕𝘊𝘌-𝘉𝘖𝘛-𝘔𝘋🛡️'
-global.packname = 'Prince♥️' 
-global.author = 'Prince♥️' 
+global.botname = '𝘗𝘈𝘕𝘋𝘈-𝘉𝘉𝘏-𝘔𝘋'
+global.princebot = '🌿🔗𝘗𝘈𝘕𝘋𝘈-𝘉𝘉𝘏-𝘔𝘋🐼♥'
+global.packname = '𝙋𝘼𝙉𝘿𝘼 𝘽𝘽𝙃♥️' 
+global.author = '𝙋𝘼𝙉𝘿𝘼 𝘽𝘽𝙃♥️' 
 global.princeig = 'https://www.instagram.com' 
 global.princegp = 'https://chat.whatsapp.com/GWJkAJSgbv27sGOMLAzMDS'
 global.menuvid = 'https://i.imgur.com/GFAAXqw.mp4'
@@ -136,12 +136,12 @@ global.thumb = fs.readFileSync('./Assets/Prince.png')
 
 
 //Reactions
-global.wait = '*♻️ _𝙶𝙴𝚃𝚃𝙸𝙽𝙶 𝚈𝙾𝚄𝚁 𝙵𝙸𝙻𝙴 𝚆𝙰𝙸𝚃..._*\n*▰▰▰▱▱▱▱▱*'
-global.imgs = '*🖼️ _𝙶𝙴𝚃𝚃𝙸𝙽𝙶 𝚈𝙾𝚄𝚁 ɪᴍᴀɢᴇs 𝚆𝙰𝙸𝚃..._*\n*▰▰▰▱▱▱▱▱*'
+global.wait = '*♻️ _සුට්ටක් ඉදපන් වුත්තෝ🐼..._*\n*▰▰▰▱▱▱▱▱*'
+global.imgs = '*🖼️ _ඉදපම් සුට්ටක් ඉවසලා..._*\n*▰▰▰▱▱▱▱▱*'
 global.rwait = '♻️'
-global.dmoji = '🤭'
-global.done = '✅'
-global.error = '❌' 
+global.dmoji = '🐼'
+global.done = '🌝'
+global.error = '💔' 
 global.xmoji = '🌀' 
 global.multiplier = 69 
 global.maxwarn = '2' 
